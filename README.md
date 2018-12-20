@@ -7,6 +7,10 @@ Python3零基础完全入门
 
 https://www.udemy.com/python3-chinese/?couponCode=SINA-PYTHON3-10
 
+Python3编程技巧汇总
+
+https://www.udemy.com/python3-tips/?couponCode=PY3-TIPS-99
+
 SQL/MySQL从入门到精通
 
 https://www.udemy.com/sql-mysql/?couponCode=MYSQL-EARLY-BIRD
