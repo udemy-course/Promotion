@@ -1,6 +1,6 @@
 # Promotion
 
-used for pay my Udemy course
+Udemy课程折扣汇总
 
 
 Python3零基础完全入门
@@ -14,6 +14,10 @@ https://www.udemy.com/python3-tips/?couponCode=PY3-TIPS-99
 SQL/MySQL从入门到精通
 
 https://www.udemy.com/sql-mysql/?couponCode=MYSQL-EARLY-BIRD
+
+MongoDB从入门到精通
+
+https://www.udemy.com/best-mongodb/?couponCode=MONGODB-FIRST
 
 Python高級課程：如何創建/發佈/維護/參與Opensource Software
 
