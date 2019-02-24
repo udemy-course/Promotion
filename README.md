@@ -19,6 +19,10 @@ MongoDB从入门到精通
 
 https://www.udemy.com/best-mongodb/?couponCode=MONGODB-FIRST
 
+Python3之操作主流数据库MySQL/MongoDB
+
+https://www.udemy.com/python3-database/?couponCode=PYTHON-SQL-MON
+
 Python高級課程：如何創建/發佈/維護/參與Opensource Software
 
 https://www.udemy.com/python-awesome-tools/?couponCode=OPEN-PYTHON-GAOJI-10
