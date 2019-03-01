@@ -11,6 +11,10 @@ Python3编程技巧汇总
 
 https://www.udemy.com/python3-tips/?couponCode=PY3-TIPS-99
 
+Python Flask Web开发入门与实战
+
+https://www.udemy.com/python-flask/?couponCode=PYFLASK-CN
+
 SQL/MySQL从入门到精通
 
 https://www.udemy.com/sql-mysql/?couponCode=MYSQL-EARLY-BIRD
