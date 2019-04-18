@@ -15,6 +15,10 @@ Python Flask Web开发入门与实战
 
 https://www.udemy.com/python-flask/?couponCode=PYFLASK-CN
 
+Python Flask REST APIs入门与实战
+
+https://www.udemy.com/flask-rest-api/?couponCode=FALSK-REST-API
+
 SQL/MySQL从入门到精通
 
 https://www.udemy.com/sql-mysql/?couponCode=MYSQL-EARLY-BIRD
