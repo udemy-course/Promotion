@@ -1,4 +1,4 @@
-# Promotion
+# Promotion（全部9.9美元）
 
 Udemy课程折扣汇总
 
