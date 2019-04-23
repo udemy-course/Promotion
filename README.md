@@ -1,6 +1,6 @@
 # Promotion（全部9.9美元）
 
-Udemy课程折扣汇总
+Udemy课程折扣汇总 (中国大陆用户也可以从51CTO购买 [购买链接](https://github.com/udemy-course/Promotion/blob/master/51cto.md))
 
 
 Python3零基础完全入门
