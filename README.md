@@ -11,6 +11,10 @@ Python3编程技巧汇总
 
 https://www.udemy.com/python3-tips/?couponCode=PY3-TIPS-99
 
+Django 2 Web开发入门与实战
+
+https://www.udemy.com/django-2-web/?couponCode=DJANGO-WEB-99
+
 Python Flask Web开发入门与实战
 
 https://www.udemy.com/python-flask/?couponCode=PYFLASK-CN
