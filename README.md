@@ -64,3 +64,9 @@ https://www.udemy.com/git-basic/?couponCode=GIT-PROMOTION
 https://www.udemy.com/linux-zh/?couponCode=LINUX-7DAYS-10
 
 更多课程敬请期待。
+
+同时也欢迎大家关注我的个人微信公众号“卖逗搞IT“，会不定期的分享一些网络，编程，容器等相关的技术文章
+
+![image](https://github.com/xiaopeng163/static/blob/master/QR/MY_WeChat_official_account.jpg)
+
+https://github.com/xiaopeng163/static/blob/master/QR/MY_WeChat_official_account.jpg
